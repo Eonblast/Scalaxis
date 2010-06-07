@@ -1,0 +1,83 @@
+8
+
+dir
+19
+http://egeoip.googlecode.com/svn/trunk/egeoip
+http://egeoip.googlecode.com/svn
+
+
+
+2009-06-09T00:42:12.222688Z
+19
+bob.ippolito
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1ce58445-5b1c-0410-96d2-1d47d2e02f1b
+
+priv
+dir
+
+LICENSE
+file
+
+
+
+
+2010-06-07T23:18:36.000000Z
+ad676694dcfeb38d25cda1572571ae85
+2006-09-01T02:40:57.436430Z
+2
+bob.ippolito
+
+include
+dir
+
+doc
+dir
+
+src
+dir
+
+support
+dir
+
+ebin
+dir
+
+README
+file
+
+
+
+
+2010-06-07T23:18:36.000000Z
+e7297885b3de33ade16c8434f1a64738
+2006-09-01T02:40:57.436430Z
+2
+bob.ippolito
+
+Makefile
+file
+
+
+
+
+2010-06-07T23:18:36.000000Z
+321969f1ad4c63db6759d0d76e0da09a
+2007-05-16T18:06:01.366380Z
+16
+bob.ippolito
+has-props
+

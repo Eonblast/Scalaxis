@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/19/trunk/egeoip/src
+END
+egeoip_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/egeoip/src/egeoip_sup.erl
+END
+egeoip.app
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/trunk/egeoip/src/egeoip.app
+END
+egeoip_app.erl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/egeoip/src/egeoip_app.erl
+END
+egeoip.erl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/trunk/egeoip/src/egeoip.erl
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/16/trunk/egeoip/src/Makefile
+END
